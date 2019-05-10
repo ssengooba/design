@@ -4,8 +4,8 @@ body{
     background:url(../images/cover.png);
     background-size:cover;
     background-position:center;
-    font-family: sans-serif;
-}
+    font-family: sans-serif; }
+
 .loginbox{
     width:320px;
     height:420px;
